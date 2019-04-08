@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/frictionlessdata/datapackage-go/datapackage"
+	"github.com/OneCloudInc/datapackage-go/datapackage"
 	"github.com/frictionlessdata/tableschema-go/csv"
 )
 

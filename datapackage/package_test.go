@@ -13,7 +13,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/frictionlessdata/datapackage-go/validator"
+	"github.com/OneCloudInc/datapackage-go/validator"
 	"github.com/matryer/is"
 )
 
