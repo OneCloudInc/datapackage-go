@@ -15,8 +15,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/frictionlessdata/datapackage-go/clone"
-	"github.com/frictionlessdata/datapackage-go/validator"
+	"github.com/OneCloudInc/datapackage-go/clone"
+	"github.com/OneCloudInc/datapackage-go/validator"
 	"github.com/frictionlessdata/tableschema-go/csv"
 	"github.com/frictionlessdata/tableschema-go/schema"
 	"github.com/frictionlessdata/tableschema-go/table"

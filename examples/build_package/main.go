@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/frictionlessdata/datapackage-go/datapackage"
-	"github.com/frictionlessdata/datapackage-go/validator"
+	"github.com/OneCloudInc/datapackage-go/datapackage"
+	"github.com/OneCloudInc/datapackage-go/validator"
 )
 
 func main() {
