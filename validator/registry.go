@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/frictionlessdata/datapackage-go/validator/profile_cache"
+	"github.com/OneCloudInc/datapackage-go/validator/profile_cache"
 	"github.com/santhosh-tekuri/jsonschema"
 
 	_ "github.com/santhosh-tekuri/jsonschema/httploader" // This import alows jsonschema to load urls.

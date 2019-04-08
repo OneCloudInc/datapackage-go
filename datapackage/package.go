@@ -15,8 +15,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/frictionlessdata/datapackage-go/clone"
-	"github.com/frictionlessdata/datapackage-go/validator"
+	"github.com/OneCloudInc/datapackage-go/clone"
+	"github.com/OneCloudInc/datapackage-go/validator"
 )
 
 const (
